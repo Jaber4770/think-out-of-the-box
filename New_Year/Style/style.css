@@ -195,3 +195,18 @@ main{
 .plans_box>h3{
     padding: 15px 0px;
 }
+/* positive mindset style here: */
+.positive_mindset{
+    background-image: url(/New_Year/images/gradient1.png), url(/New_Year/images/watch.png);
+    color: white;
+    padding: 100px 80px;
+    background-size: cover;
+    border-radius: 10px;
+}
+.positive-title{
+    font-size: 30px;
+}
+.call-btn{
+    padding: 15px 25px;
+    margin-top: 10px;
+}
