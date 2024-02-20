@@ -128,7 +128,7 @@ main{
 }
 /* Header style */
 .header_bg{
-    background-image: url(/New_Year/images/banner/banner3.png);
+    background-image: url(New_Year/images/banner/banner3.png);
     color: white;
     background-size: cover;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@ main{
 }
 /* positive mindset style here: */
 .positive_mindset{
-    background-image: url(/New_Year/images/gradient1.png), url(/New_Year/images/watch.png);
+    background-image: url(New_Year/images/gradient1.png), url(New_Year/images/watch.png);
     color: white;
     padding: 100px 80px;
     background-size: cover;
